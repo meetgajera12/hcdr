@@ -1,7 +1,11 @@
 Data
 catboost_info
-09_eda_previousApplication.ipynb
+.vscode
 10_Merging.ipynb
 11_Data_Preprocessing.ipynb
 Models
 utils
+api
+schema
+frontend
+images
